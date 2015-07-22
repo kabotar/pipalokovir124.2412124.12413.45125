@@ -39,6 +39,7 @@ public class ThirdPersonOrbitCam : MonoBehaviour
 
 	private float defaultFOV;
 	private float targetFOV;
+    
 
 	void Awake()
 	{
